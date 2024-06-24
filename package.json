@@ -1,0 +1,11 @@
+{
+  "name": "first_assignment",
+  "version": "1.0.0",
+  "description": "this project is about Add a new task. View a list of tasks. Mark a task as complete. Remove a task.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raj Patel",
+  "license": "ISC"
+}
